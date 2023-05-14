@@ -31,7 +31,8 @@ header{
     align-items: center;
     height: 90px;
 }
-.logo{
+
+#logo {
     width: 100px;
 }
 
@@ -52,10 +53,6 @@ main {
     text-align: center;
     justify-content: center;
 }
-
-/* figure{
-  padding-top: 10%;
-} */
 
 .foto{
     border-radius: 100%;
